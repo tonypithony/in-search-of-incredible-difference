@@ -1,0 +1,10 @@
+for 1.jpg visibly different = FAIL: Image dimensions do not match
+for 3.jpg visibly different = FAIL: Image dimensions do not match
+for 4.jpg visibly different = FAIL: Image dimensions do not match
+for 6.jpg visibly different = 
+for 7.jpg visibly different = FAIL: Images are visibly different
+908417 pixels are different
+for 8.jpg visibly different = FAIL: Images are visibly different
+948516 pixels are different
+for 9.jpg visibly different = FAIL: Images are visibly different
+101561 pixels are different
