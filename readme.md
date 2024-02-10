@@ -1,10 +1,10 @@
 # apt install perceptualdiff imagemagick  
 
 
-![]()
+![](https://raw.githubusercontent.com/tonypithony/in-search-of-incredible-difference/main/6.jpg)
 
 
-![]()
+![](https://raw.githubusercontent.com/tonypithony/in-search-of-incredible-difference/main/9_difference.png)
 
 
 ## Source  
